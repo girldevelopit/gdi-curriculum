@@ -1,1 +1,2 @@
-# HTML-CSS
+# Welcome to the GDI curriculum!
+Girl Develop It is a nonprofit organization devoted to getting women the materials they need to pursue careers in software development. GDI’s mission to create welcoming, supportive opportunities for women and non-binary adults to learn software development skills. We believe in a world where all people are included and empowered in developing the future of technology. Through classes, projects, and events, GDI students develop code, confidence, and community.
